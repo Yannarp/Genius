@@ -4,7 +4,7 @@ let score = 0;
 
 //0 - verde
 //1 - vermelho
-//2 - vamarelo
+//2 - amarelo
 //3 - azul
 
 const blue = document.querySelector('.blue');
